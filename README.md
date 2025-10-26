@@ -22,7 +22,7 @@ pip install requests colorama urllib3
 
 ### Clone Repository
 ```bash
-git clone [https://github.com/yourusername/blind-ssrf-hunter.git](https://github.com/Mr-r00t11/SSRFBlind)
+git clone https://github.com/Mr-r00t11/SSRFBlind.git
 cd SSRFBlind
 ```
 
